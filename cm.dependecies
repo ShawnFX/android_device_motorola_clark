@@ -1,0 +1,18 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "MotoXStyleDev/android_kernel_motorola_msm8992",
+    "target_path": "kernel/motorola/msm8992",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "MotoXStyleDev/android_vendor_motorola_clark",
+    "target_path": "vendor/motorola/clark",
+    "revision":    "cm-12.1"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  }
+]
